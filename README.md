@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @matheusharlen and I'm 27 years old.
+- 👀 I'm passionate about technology and discovering new things.
+- 🌱 I’m currently pursuing a degree in Analysis and Systems Development at UNIFOR (University of Fortaleza) and I'm in my first semester. I already have some experience with C++, C#, and JavaScript, and I'm currently expanding my knowledge to become a more well-rounded professional.
+- 💞️ I'm looking to collaborate on projects that involve C# and JavaScript.
